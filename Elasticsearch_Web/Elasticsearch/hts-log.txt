@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 Mar 2021 07:49:40 at https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/#Elasticsearch +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/#Elasticsearch -O1 "C:\Users\aon25\Documents\GitHub\Elasticsearch_tutorial\Elasticsearch_Web\Elasticsearch" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:49:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+07:49:58	Warning: 	Retry after error -5 (Unable to get server's address: そのようなホストは不明です。 ) at link primary/Elasticsearch (from primary/primary)
+07:50:04	Warning: 	Found for https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=twitter
+07:50:04	Warning: 	File has moved from https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=twitter to https://twitter.com/intent/tweet?text=Elasticsearch%20%2B%20Python%20%E5%9F%BA%E6%9C%AC%E6%A9%9F%E8%83%BD%E3%81%AE%E7%A2%BA%E8%AA%8D&url=https%3A%2F%2Froy29fuku.com%2Finfra%2Felasticsearch%2Felasticsearch-python-tutorial%2F
+07:50:04	Warning: 	Found for https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=facebook
+07:50:04	Warning: 	File has moved from https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Froy29fuku.com%2Finfra%2Felasticsearch%2Felasticsearch-python-tutorial%2F&t=Elasticsearch%20%2B%20Python%20%E5%9F%BA%E6%9C%AC%E6%A9%9F%E8%83%BD%E3%81%AE%E7%A2%BA%E8%AA%8D
+07:50:04	Warning: 	Found for https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=reddit
+07:50:04	Warning: 	File has moved from https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2Froy29fuku.com%2Finfra%2Felasticsearch%2Felasticsearch-python-tutorial%2F&title=Elasticsearch%20%2B%20Python%20%E5%9F%BA%E6%9C%AC%E6%A9%9F%E8%83%BD%E3%81%AE%E7%A2%BA%E8%AA%8D
+07:50:04	Warning: 	Found for https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=pocket
+07:50:04	Warning: 	File has moved from https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=pocket to https://getpocket.com/save/?url=https%3A%2F%2Froy29fuku.com%2Finfra%2Felasticsearch%2Felasticsearch-python-tutorial%2F&title=Elasticsearch%20%2B%20Python%20%E5%9F%BA%E6%9C%AC%E6%A9%9F%E8%83%BD%E3%81%AE%E7%A2%BA%E8%AA%8D
+07:50:04	Warning: 	Found for https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=linkedin
+07:50:04	Warning: 	File has moved from https://roy29fuku.com/infra/elasticsearch/elasticsearch-python-tutorial/?share=linkedin to https://www.linkedin.com/cws/share?token&isFramed=false&url=https%3A%2F%2Froy29fuku.com%2Finfra%2Felasticsearch%2Felasticsearch-python-tutorial%2F
+07:50:04	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/Elasticsearch (from primary/primary)
+07:50:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/Elasticsearch (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 58 links scanned, 48 files written (1072744 bytes overall) [629830 bytes received at 24224 bytes/sec], 656545 bytes transferred using HTTP compression in 26 files, ratio 29%, 6.2 requests per connection
+(2 errors, 12 warnings, 0 messages)

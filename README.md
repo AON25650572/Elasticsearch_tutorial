@@ -4,8 +4,6 @@ https://qiita.com/ikawaha/items/c654f746cfe76b888a27
 
 今までRDBでデータを格納してたけど、Elasticsearchなるものを使うと検索スピードが爆速いらしい。
 
-『データの加工なども楽になる・・・と思うのですよ』、ほんまか？
-
 ## Javaのインストール
 
 https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-20-04-ja
@@ -94,4 +92,17 @@ bin/elasticsearch
 ```
 curl http://localhost:9200/
 ```
+
+
+
+## 使い方
+
++ [Python Elasticsearch 基本的な使い方まとめ](https://qiita.com/satto_sann/items/8a63761bbfd6542bb9a2)
+  + How_to_use.ipynb
+  + 検索数が10000件を超えなければここでOK
++ [「Python」 from size を使って全権取得しようとしたら、1万件までしかムリと言われたので仕方なく scroll を使った時の メモ](https://knaka20blue.hatenablog.com/entry/20181127/1543284997)
+  + 検索数が10000件を超えるときはここら辺を見て解決
+  + es_search.pyのes_search_allとかを使うと抜ける
++ [SQLとElasticsearchとのクエリの比較](https://qiita.com/NAO_MK2/items/630f2c4caa0e8a42407c)
+  + 感覚的にわかりやすい、クエリの作り方
 

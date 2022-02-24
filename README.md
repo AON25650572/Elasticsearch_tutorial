@@ -105,5 +105,5 @@ curl http://localhost:9200/
   + es_search.pyのes_search_allとかを使うと抜ける
 + [SQLとElasticsearchとのクエリの比較](https://qiita.com/NAO_MK2/items/630f2c4caa0e8a42407c)
   + 感覚的にわかりやすい、クエリの作り方
-+ [初心者のためのElasticsearchその2 -いろいろな検索-](https://dev.classmethod.jp/articles/es-02/#toc-5)
++ [初心者のためのElasticsearchその2 -いろいろな検索-](https://dev.classmethod.jp/articles/es-02/)
 

@@ -106,4 +106,5 @@ curl http://localhost:9200/
 + [SQLとElasticsearchとのクエリの比較](https://qiita.com/NAO_MK2/items/630f2c4caa0e8a42407c)
   + 感覚的にわかりやすい、クエリの作り方
 + [初心者のためのElasticsearchその2 -いろいろな検索-](https://dev.classmethod.jp/articles/es-02/)
++ [pipでインストールするときのバージョンは気を付けて](https://stackoverflow.com/questions/68762774/elasticsearchunsupportedproducterror-the-client-noticed-that-the-server-is-no)
 
